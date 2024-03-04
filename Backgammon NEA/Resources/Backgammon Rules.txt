@@ -1,0 +1,14 @@
+Backgammon Rules
+
+-Each player starts with 15 tokens each in a symmetrical pattern.
+-Each players aim is to get all 15 tokens to the end of their board one being at column 1 and one being column 24.
+-Each player rolls two dice each turn and can move as many tokens as they can with the number combination:
+-These being using each dice value seperatly e.g. rolling a 1 and a 5 allows to move a token 1 slot and another 5 slots
+	-or moving one token the accumulative score e.g. 1 and a 5 can move a token 6 slots.
+-A token cannot move to a slot occupied by the opposing player.
+-To bring tokens home a player must first have all 15 tokens located in their final quarter and then have to roll enough to get the token past the final slot bring it home.
+-If a roll is a double then the player gets to have the equivalent to 4 of that value e.g. roll double 1 is equivalent to four 1's meaning they can move further.
+-A player has to move a tokens the corresponding dice values and cannot skip a go
+-If there are no possible moves the player losses their turn
+
+
